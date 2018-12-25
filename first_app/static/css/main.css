@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Poppins');
+
+/* 
+font-family: 'Baloo', cursive;
+font-family: 'Poppins', sans-serif; */
+
+
+
+body{
+  margin:0 auto;
+  padding:0;
+  font-family:'Poppins', sans-serif;
+  font-size: 16px;
+}
+
+header{
+  width: 100%;
+  height: 80px;
+  background-color: #000058;
+  color: #fff;
+}
+
+.topbar{
+  width: 80%;
+  margin:0 auto;
+}
+
+.logo img{
+  margin-top: 20px;
+  width: 100px;
+}
+
+
+nav{
+  margin-top: -60px;
+  float: right;
+}
+
+nav li{
+  display: inline-block;
+  padding: 0 20px;
+}
+
+nav li a{
+  text-decoration: none;
+  color: #fff;
+}
+
+nav li a:hover{
+  color: #E57F92;
+}
+
+
+.donate{
+  border: 2px solid #fff;
+  width: 100px;
+  height: 40px;
+  padding: 8px 40px;
+  color: #fff;
+}
+
+.donate:hover{
+  border: 2px solid #E57F92;
+}
+
+
+footer{
+    height: 80px;
+    width:100%;
+    background:#000058;
+    color: #fff;
+    text-align: right;
+  }
+  
+  footer p{
+    font-weight: lighter;
+    padding: 30px 50px 0 0;
+    opacity: 0.8;
+  }
