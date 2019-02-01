@@ -1,0 +1,28 @@
+
+
+.main-head img{
+  height: 70vh;
+  width: 100%;
+}
+
+h1{
+  margin-top: -380px;
+  font-size: 150px;
+  text-align: center;
+  font-family: 'Baloo', cursive;
+  color: #fff;
+}
+
+.about{
+  width: 60%;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.about p{
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 180%;
+  color: #193441;
+}
+
